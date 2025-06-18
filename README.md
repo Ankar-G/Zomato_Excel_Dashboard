@@ -53,6 +53,13 @@
 
 🍽️ Despite global coverage, customer convenience features like online bookings are still limited.
 
-# 📂 File Uploaded
-Screenshot of the final interactive Excel dashboard -  https://github.com/Ankar-G/Zomato_Excel_Dashboard/blob/main/Screenshot%202025-06-18%20214406.png 
+## 📁 Files Included:
+- `Zomato_Restaurent_Analysis`: EXCEL project file
+- `Dashboard_Screenshot.png`: ![Dashboard Screenshot](https://github.com/Ankar-G/Blinkit_Analysis_PowerBI/blob/main/Screenshot%202025-06-09%20114936.png)
+- `README.md`: Project details and insights
+
+---
+
+👨‍💻 Developed by: Ankar
+14406.png 
 
