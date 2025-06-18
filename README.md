@@ -55,7 +55,7 @@
 
 ## 📁 Files Included:
 - `Zomato_Restaurent_Analysis`: EXCEL project file
-- `Dashboard_Screenshot.png`: ![Dashboard Screenshot](https://github.com/Ankar-G/Blinkit_Analysis_PowerBI/blob/main/Screenshot%202025-06-09%20114936.png)
+- `Dashboard_Screenshot.png`: ![Dashboard Screenshot](https://github.com/Ankar-G/Zomato_Excel_Dashboard/blob/main/Screenshot%202025-06-18%20214406.png)
 - `README.md`: Project details and insights
 
 ---
