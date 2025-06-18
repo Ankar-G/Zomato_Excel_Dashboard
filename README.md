@@ -61,5 +61,4 @@
 ---
 
 👨‍💻 Developed by: Ankar
-14406.png 
 
