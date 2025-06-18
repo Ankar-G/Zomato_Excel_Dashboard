@@ -2,45 +2,45 @@
 
 
 # ✅ Key Features
-Built entirely in Microsoft Excel using:
+- Built entirely in Microsoft Excel using:
 
-Pivot Tables
+- Pivot Tables
 
-Interactive Charts & Graphs
+- Interactive Charts & Graphs
 
-Slicers for filtering data by Country, Year, Quarter, and Month
+- Slicers for filtering data by Country, Year, Quarter, and Month
 
-Conditional formatting for better visual cues
+- Conditional formatting for better visual cues
 
-Covers data from:
+- Covers data from:
 
-15 countries
+- 15 countries
 
-141 cities
+- 141 cities
 
-7433 restaurants
+- 7433 restaurants
 
-1826 cuisine types
+- 1826 cuisine types
 
-KPIs displayed for:
+- KPIs displayed for:
 
-Total Restaurants
+- Total Restaurants
 
-Average Ratings
+- Average Ratings
 
-Country & City Count
+- Country & City Count
 
-Cuisine Variety
+- Cuisine Variety
 
-Dedicated charts for:
+- Dedicated charts for:
 
-Monthly restaurant openings
+- Monthly restaurant openings
 
-Restaurant types (Luxury, High, Medium, Low)
+- Restaurant types (Luxury, High, Medium, Low)
 
-Online and table booking availability
+- Online and table booking availability
 
-Country-wise restaurant distribution
+- Country-wise restaurant distribution
 
 # 🔍 Key Insights
 🇮🇳 India leads with over 6593 restaurants, followed by the UK and Brazil.
