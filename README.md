@@ -54,7 +54,7 @@
 🍽️ Despite global coverage, customer convenience features like online bookings are still limited.
 
 # 📂 File Uploaded
-Zomato_Excel_Dashboard.png – Screenshot of the final interactive Excel dashboard.
+https://github.com/Ankar-G/Zomato_Excel_Dashboard/blob/main/Screenshot%202025-06-18%20214406.png – Screenshot of the final interactive Excel dashboard.
 
 (Optional: Add Excel file name if you're uploading the .xlsx file too, e.g., Zomato_Data_Dashboard.xlsx)
 
