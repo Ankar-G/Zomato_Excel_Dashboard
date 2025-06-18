@@ -1,7 +1,7 @@
-# 📊 Zomato Restaurant Data Analysis — Excel Dashboard Project
+## 📊 Zomato Restaurant Data Analysis — Excel Dashboard Project
 
 
-✅ Key Features
+# ✅ Key Features
 Built entirely in Microsoft Excel using:
 
 Pivot Tables
@@ -42,7 +42,7 @@ Online and table booking availability
 
 Country-wise restaurant distribution
 
-🔍 Key Insights
+# 🔍 Key Insights
 🇮🇳 India leads with over 6593 restaurants, followed by the UK and Brazil.
 
 🏷️ Most restaurants fall under the Low (47%) and Medium (30%) price categories.
@@ -53,7 +53,7 @@ Country-wise restaurant distribution
 
 🍽️ Despite global coverage, customer convenience features like online bookings are still limited.
 
-📂 File Uploaded
+# 📂 File Uploaded
 Zomato_Excel_Dashboard.png – Screenshot of the final interactive Excel dashboard.
 
 (Optional: Add Excel file name if you're uploading the .xlsx file too, e.g., Zomato_Data_Dashboard.xlsx)
