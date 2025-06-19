@@ -2,7 +2,7 @@
 
 
 # ✅ Key Features
-- Built entirely in Microsoft Excel using:
+-- Built entirely in Microsoft Excel using:
 
 - Pivot Tables
 
